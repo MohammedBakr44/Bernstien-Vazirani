@@ -44,7 +44,7 @@ ${} f(1, 0, 0, \dots, 0)$ gets $s_0$
 
 $f(0, 1, 0, \dots, 0)$ gets ${} s_1 {}$
 
->An implementation will be attached as classic.py and also in the notebook.
+% >An implementation will be attached as classic.py and also in the notebook.
 
 ## Quantum
 ### Preliminaries 
