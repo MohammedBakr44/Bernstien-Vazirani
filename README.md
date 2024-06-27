@@ -14,12 +14,17 @@ $$a \cdot x \equiv a_0x_0 \oplus a_1x_1 \oplus \dots \oplus a_{n-1}x_{n-1}$$
 let n = 4 (the number of bits in each number)
 a = 110**1**
 x = 111**0**
-We started the [LSB](https://bit-calculator.com/most-and-least-significant-bit)(Least significant bit i.e the right most bit shown in bold).
+We started the [LSB](https://bit-calculator.com/most-and-least-significant-bit) (Least significant bit i.e the right most bit shown in bold).
+
 we start with 
 $$ a \cdot x = (1 \times 0) + (0 \times 1) + (1 \times 1) + (1 \times 1)$$
+
 gives us
+
 $$a \cdot x = 0 + 0 + 1 + 1 = 2$$
-$$2 \% 2 = 0$$
+
+$$2 \\% 2 = 0$$
+
 > `%` is the modulo operator in many programming languages.
 # Theory
 ## Classically
