@@ -17,6 +17,7 @@ x = 111**0**
 We started the [LSB](https://bit-calculator.com/most-and-least-significant-bit) (Least significant bit i.e the right most bit shown in bold).
 
 we start with 
+
 $$ a \cdot x = (1 \times 0) + (0 \times 1) + (1 \times 1) + (1 \times 1)$$
 
 gives us
