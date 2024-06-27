@@ -123,6 +123,7 @@ $$\mathbf{H}^{\otimes(n+1)} \mathbf{U}_f \mathbf{H^{\otimes (n+1)}} \ket{0}_n \k
 
 And we are done, the final circuit looks like this
 ![](https://i.imgur.com/QpA7QYX.png)
+
 It will be implemented in the notebook as well.
 # References
 1. [Bernstein, Ethan, and Umesh Vazirani. "Quantum complexity theory." Proceedings of the twenty-fifth annual ACM symposium on Theory of computing. 1993.](https://dl.acm.org/doi/pdf/10.1145/167088.167097).
