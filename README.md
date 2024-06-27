@@ -101,4 +101,5 @@ It will be implemented in the notebook as well.
 - [Time and Space Classes and P Exposition by William Gasarch, University of Maryland](https://www.cs.umd.edu/~gasarch/COURSES/452/F14/p.pdf)
 - [Proof of generalisation of n-fold tensor product](https://math.stackexchange.com/questions/2637995/universal-property-of-the-n-fold-tensor-product#2639046) 
 - [MIT Tensor Product notes](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/ffe665c0cba2eae19a83e88dec42925c_MIT8_05F13_Chap_08.pdf)
--
+- [Medium Article about the problem](https://medium.com/quantum-untangled/the-bernstein-vazirani-algorithm-quantum-algorithms-untangled-67e58d4a5096) 
+- [A helpful YouTube video](https://youtu.be/f0ChZip0u9I?list=TLPQMjcwNjIwMjRfl-NFr2YziA)
