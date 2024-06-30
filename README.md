@@ -68,7 +68,7 @@ $$\mathbf{H}^{\otimes n} = \mathbf{H} \otimes \mathbf{H} \otimes \dots \otimes \
 We use this to convert the state into a `an equal weighted superposition` of all possible inputs, we then apply our operator ${} \mathbf{U}_f {}$ and by linearity
 
 
-$${} \mathbf{U}_f(\mathbf{H^{\otimes n} \otimes 1_{m}}) = \frac{1}{2^{n/2}} \sum_{0 \leq x \lt 2^n} \mathbf{U}_f(\ket{x}_n \ket{0}_m) {}$$
+$$\mathbf{U}\_{f} (\mathbf{H^{\otimes n} \otimes 1_{m}}) = \frac{1}{2^{n/2}} \sum_{0 \leq x \lt 2^n} \mathbf{U}_f(\ket{x}_n \ket{0}_m)$$
 
 
 $$ = \frac{1}{2^{n/2}} \sum_{0 \leq x \lt2^n} \ket{x}_n \ket{f(x)}_m$$
