@@ -1,4 +1,4 @@
-[A link to the original note in case I didn't/couldn't fix Github's display issues](https://share.note.sx/t2v6eqnm#fUPvMK3tKhQrX/EC5ooHO0g9nj9j537hXQ8lQSgODi8)
+[A link to the original note in case I didn't/couldn't fix Github's display issues](https://share.note.sx/wux8ki9r#J+q57yhPf1WZKmItptIV3DU92fAEgs9AXHUFB57cVl4)
 
 # Introduction
 The [Bernstein-Vazirani](https://young.physics.ucsc.edu/150/bv.pdf) problem is like [Deutsch-Joza Algorithm](https://www.qi.damtp.cam.ac.uk/files/QIC-9.pdf), A black box algorithm that demonstrates exponential speedup on a QTM(Quantum Turing Machine) compared to a DTM(Deterministic Turing Machine). [1]
